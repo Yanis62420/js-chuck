@@ -1,0 +1,23 @@
+#container {
+    border: 5px solid black;
+    height: 275px;
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#btn {
+    margin: 50px auto;
+    height: 50px;
+    width: 250px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aqua;
+}   
+
+#out{
+    margin: 25px auto;
+    font-size: 26px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
